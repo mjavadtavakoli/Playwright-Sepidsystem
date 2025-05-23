@@ -54,12 +54,14 @@ cd Sepidsystem
 npm install
 ```
 
-```bash
 To run the tests : 
+```bash
+
 npx playwright test
 ```
-```bash
 To run the tests in the browser : 
+```bash
+
 npx playwright test --headed
 ```
 
