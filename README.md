@@ -15,14 +15,14 @@ In this repository, I’m going to automate one of the business’s (SepidSeyste
 
 
 
-<h1 align="center">🎭 Business Flow Test Automation</h1>
+<h1 align="center"> Business Flow Test Automation</h1>
 <p align="center">
   Automating core user journeys with <strong>Playwright</strong> — fast, reliable, and CI-friendly.
 </p>
 
 ---
 
-## 🚀 Overview
+##  Overview
 
 This repository contains **end-to-end test automation** for key business flows using [Playwright](https://playwright.dev/). It ensures that critical paths like login, sign-up, or purchase remain stable and bug-free with every release.
 
