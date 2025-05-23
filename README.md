@@ -52,3 +52,9 @@ git clone https://github.com/mjavadtavakoli/Playwright-Sepidsystem.git
 cd Sepidsystem
 npm install
 ```
+
+
+<div align="center">
+  <img src="https://github.com/mjavadtavakoli/mjavadtavakoli/blob/main/download.png?raw=true" width="230"/>
+</div>
+https://github.com/mjavadtavakoli/mjavadtavakoli/blob/main/download.png
