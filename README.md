@@ -48,6 +48,6 @@ This repository contains **end-to-end test automation** for key business flows u
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/biz-flow-tests.git
-cd biz-flow-tests
+git clone https://github.com/mjavadtavakoli/Playwright-Sepidsystem.git
+cd Sepidsystem
 npm install
