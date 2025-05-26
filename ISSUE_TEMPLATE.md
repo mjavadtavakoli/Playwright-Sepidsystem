@@ -1,4 +1,5 @@
-h3 Example of breaking down the bug:
+Example of breaking down the bug 
+-------------------------------------------------------
 
 Steps to Reproduce :
 Actual result :
@@ -10,7 +11,9 @@ Platform: Web / Windows 10 :
 Additional Notes :
 Bug Number:
 
-
+-------------------------------------------------------
 
 
 Or contact via this email:
+
+moahammadjavad.dev@gmail.com
