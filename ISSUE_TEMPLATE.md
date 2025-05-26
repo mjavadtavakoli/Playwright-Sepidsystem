@@ -4,12 +4,13 @@ Example of breaking down the bug
 Steps to Reproduce :
 Actual result :
 Expcted result :
-Example trackingCode :
+Example trackingCode := false
 Screenshot :
-Screen Capture Video Uploaded :
-Platform: Web / Windows 10 :
+Screen Capture Video Uploaded := false 
+Platform:  Web / Windows 10 
 Additional Notes :
 Bug Number:
+
 ```
 -------------------------------------------------------
 
@@ -17,3 +18,4 @@ Bug Number:
 Or contact via this email:
 
 moahammadjavad.dev@gmail.com
+
