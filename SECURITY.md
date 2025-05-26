@@ -1,7 +1,7 @@
 # Security Policy
 
 
-We currently support the following versions with security updates:
+me currently support the following versions with security updates:
 
 | Version | Supported |
 | ------- | --------- |
@@ -35,11 +35,6 @@ We will:
 3. Fix it as soon as possible (usually within **10–20 days**)
 
 ---
-
-## Responsible Disclosure
-
-We appreciate and respect **responsible disclosure**.  
-Please do not publish the vulnerability details until we've addressed it.
 
 Thank you for helping us keep our project and users safe!
 
