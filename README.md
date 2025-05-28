@@ -64,4 +64,8 @@ To run the tests in the browser :
 
 npx playwright test --headed
 ```
+run codegen :
+```bash 
+npx playwright codegen http://192.168.1.29:84/#/ 
+```
 
