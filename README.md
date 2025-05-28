@@ -66,6 +66,6 @@ npx playwright test --headed
 ```
 run codegen :
 ```bash 
-npx playwright codegen http://192.168.1.29:84/#/ 
+npx playwright codegen http://google.com
 ```
 
