@@ -1,7 +1,7 @@
 import { test, expect } from '@playwright/test';
 
 test('test', async ({ page }) => {
-  await page.goto('http://192.168.1.29:84/#/');
+  await page.goto('https://sepidseystem.com');
   await page.getByRole('textbox', { name: 'نام کاربری' }).click();
   await page.getByRole('textbox', { name: 'نام کاربری' }).fill('your-username');
   await page.getByRole('textbox', { name: 'نام کاربری' }).press('ControlOrMeta+a');
